@@ -1,2 +1,3 @@
  This is sample file 1
-This is second change in txt file
+This is second change in txt file.
+This is third change from github.
